@@ -20,6 +20,3 @@ This project presents a business analysis report using data to evaluate performa
 
 ## Conclusion
 The analysis provides data-driven insights that can help management improve profitability and operational efficiency.
-
-## Dashboard Preview
-![Business Analysis Dashboard](dashboard.png)
