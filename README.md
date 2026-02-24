@@ -1,25 +1,28 @@
 # Business Analysis Report
 
-## Overview
-This project presents a business analysis report using data to evaluate performance, identify trends, and support strategic decision-making.
+## Project Summary
+This project presents a business analysis report developed to evaluate organizational performance using data-driven techniques. The analysis focuses on sales, revenue, profit, and discount patterns to support informed decision-making.
+
+## Business Problem
+Management requires insights into performance trends, profitability, and the impact of discounts across products and time periods.
 
 ## Objectives
-- Analyze business performance
-- Identify key trends and patterns
-- Evaluate revenue, cost, and profit
-- Provide actionable insights for management
+- Evaluate overall business performance
+- Analyze revenue, cost, and profit trends
+- Assess the impact of discounts on profitability
+- Identify high-performing products and periods
 
-## Tools Used
+## Tools & Technologies
 - Power BI
-- Excel
+- Microsoft Excel
 
 ## Key Insights
-- Sales performance varies by product and region
-- Discounts impact profit margins
-- Monthly trends highlight peak and low periods
-
-## Conclusion
-The analysis provides data-driven insights that can help management improve profitability and operational efficiency.
+- Sales performance varies significantly across products
+- High discount rates negatively affect profit margins
+- Certain months record peak sales and profitability
 
 ## Dashboard Preview
 ![Business Analysis Dashboard](dashboard.png)
+
+## Conclusion & Recommendation
+The findings highlight the need to optimize discount strategies and focus on high-performing products to improve overall profitability.
